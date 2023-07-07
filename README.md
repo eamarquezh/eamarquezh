@@ -7,6 +7,8 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ![html](html5-fill.svg)
 ![css](css3-fill.svg)
 ![js](javascript-fill.svg)
+![js](php.png)
+![js](python.png)
 
 ## My friendly tools
 ### To Developer 
