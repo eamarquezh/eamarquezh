@@ -1,4 +1,4 @@
-# Hi I'm Eric 👋  ![mi robot avatar]([ruta_de_la_imagen](https://robohash.org/eamarquezh))
+# Hi I'm Eric 👋  ![Foto de perfil](https://robohash.org/eamarquezh)
 I like me really the software developed, I specialize in QA software, Data Science and Software developer, I present my portfolio and showcase some of my skills.
 
 ## Development with
