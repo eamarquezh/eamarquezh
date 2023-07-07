@@ -32,6 +32,6 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ![pandas](pandas.png)
 
 
-![eamarquezh](https://robohash.org/eamarquezh)
+![eamarquezh](https://robohash.org/eamarquezh.png?size=150x150)
 
 **by eamarquezh**
