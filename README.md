@@ -17,6 +17,7 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ![vscode](vscode.png)
 ![vite](vite.jpg)
 ### To Testing
+![playwriting](playwriting.png)
 ### To Data Science
 ![eamarquezh](https://robohash.org/eamarquezh)
 
