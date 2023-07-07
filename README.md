@@ -12,6 +12,10 @@ I like me really the software developed, I specialize in QA software, Data Scien
 
 ## My friendly tools
 ### To Developer 
+![git](git.png)
+![docker](docker.png)
+![vscode](vscode.png)
+![vite](vite.jpg)
 ### To Testing
 ### To Data Science
 ![eamarquezh](https://robohash.org/eamarquezh)
