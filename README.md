@@ -4,7 +4,9 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ## I am proud of 
 
 ## My favorite programming languages
-
+![html](html5-fill.svg)
+![css](css3-fill.svg)
+![js](javascript-fill.svg)
 
 ## My friendly tools
 ### To Developer 
@@ -12,4 +14,5 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ### To Data Science
  
  **by eamarquezh**
+ 
  ![eamarquezh](https://robohash.org/eamarquezh)
