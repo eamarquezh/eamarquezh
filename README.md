@@ -20,7 +20,7 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ![playwriting](playwriting.png)
 ### To Data Science
 ![excel](excel.svg)
-![mysql](mysql.png)
+![sql](sql.svg)
 ![pandas](pandas.png)
 
 ![eamarquezh](https://robohash.org/eamarquezh)
