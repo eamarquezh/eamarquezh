@@ -14,7 +14,5 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ### To Developer 
 ### To Testing
 ### To Data Science
- 
- **by eamarquezh**
- 
  ![eamarquezh](https://robohash.org/eamarquezh)
+ **by eamarquezh**
