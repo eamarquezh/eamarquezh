@@ -21,7 +21,7 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ### To Data Science
 ![excel](excel.svg)
 ![sql](sql.svg)
-![pandas](pandas.png)
+
 
 ![eamarquezh](https://robohash.org/eamarquezh)
 
