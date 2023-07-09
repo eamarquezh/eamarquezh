@@ -9,7 +9,10 @@ I like me really the software developed, I specialize in QA software, Data Scien
 
 😌[caja-registradora](https://github.com/eamarquezh/caja-registradora)
 
+😁[simula-cajero](https://github.com/eamarquezh/simula-cajero)
+
 ☺️[eamarquezh-resume](https://github.com/eamarquezh/eamarquezh-resume)
+
 
 ## My favorite programming languages
 ![html](html5-fill.svg)
