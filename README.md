@@ -33,6 +33,7 @@ I like me really the software developed, I specialize in QA software, Data Scien
 ![excel](excel.svg)
 ![sql](sql.svg)
 ![pandas](pandas.png)
+![pandas](r.png)
 
 
 ![eamarquezh](https://robohash.org/eamarquezh.png?size=150x150)
