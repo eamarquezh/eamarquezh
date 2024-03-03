@@ -3,6 +3,8 @@ I like me really the software developed, I specialize in QA software, Data Scien
 
 ## I am proud of this code
 
+😲 [Creature store](https://github.com/eamarquezh/creatures-store)
+
 😂 [huevoestrelladogame](https://github.com/eamarquezh/huevoestrelladogame)
 
 😏[tiendavirtual](https://github.com/eamarquezh/tiendavirtual)
